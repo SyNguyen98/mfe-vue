@@ -7,7 +7,7 @@ const printCompilationMessage = require('./compilation.config.js');
 
 module.exports = (_, argv) => ({
   output: {
-    publicPath: "https://salmon-island-072e10b00.5.azurestaticapps.net/",
+    publicPath: "https://orange-island-040f90e00.5.azurestaticapps.net/",
   },
 
   mode: "production",
