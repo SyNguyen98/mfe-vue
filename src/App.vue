@@ -1,12 +1,7 @@
 <template>
   <div class="container">
-    <div>Name: mfe-vue</div>
-    <div>Framework: vue3</div>
-    <div>Language: TypeScript</div>
-    <div>CSS: Empty CSS</div>
+    <VueComponent />
   </div>
-
-  <VueComponent />
 </template>
 
 <script lang="ts">
