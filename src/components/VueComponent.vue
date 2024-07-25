@@ -6,18 +6,18 @@
 </template>
 
 <script lang="ts">
-import {defineComponent} from 'vue';
+  import {defineComponent} from 'vue';
 
-export default defineComponent({
-  name: 'VueComponent',
-});
+  export default defineComponent({
+    name: 'VueComponent',
+  });
 </script>
 
 <style scoped>
-.vue-component {
-  padding: 20px;
-  border: 1px solid #ccc;
-  margin: 10px;
-  border-radius: 8px;
-}
+  .vue-component {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    border-radius: 8px;
+  }
 </style>
